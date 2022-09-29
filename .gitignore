@@ -1,0 +1,5 @@
+API_STUFF
+Pipfile
+*.lock
+.git
+**/__pycache__/
